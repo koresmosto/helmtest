@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmtest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-05T18:50:51.06866847+02:00"
+    description: A Helm chart for Kubernetes
+    digest: c2e3ccb018950e4741df53e7ac6decc1a6f64cf2276e2c8da0cbe780b27d649f
+    name: helmtest
+    type: application
+    urls:
+    - https://koresmosto.github.io/helmtest/helmtest-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-05T18:50:51.068208252+02:00"
